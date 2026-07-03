@@ -1,0 +1,6 @@
+{
+  "name": "VELARO - Luxury Men's Fashion Store",
+  "description": "A highly polished, agency-level luxury men's fashion e-commerce portfolio application showcasing exquisite designs, premium materials, and a seamless shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
